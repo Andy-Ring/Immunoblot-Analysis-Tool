@@ -12,7 +12,7 @@ The **Immunoblot Analysis Tool** is a Shiny-based application designed to facili
 - **Data and Plot Export:** Download quantified lane intensity data and analysis plots in various formats.
 
 ## Web Access
-This app can we accessed throught the web at 
+This app can we accessed through the web at https://019595f7-403a-1cce-f8bf-33f376dfe4d9.share.connect.posit.cloud/
 
 ## Usage
 ### 1. Image Quantification
